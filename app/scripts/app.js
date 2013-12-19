@@ -20,6 +20,10 @@ angular.module('appsTfkDelingApp', [
         templateUrl: 'views/ressurser.html',
         controller: 'RessurserCtrl'
       })
+      .when('/personvern', {
+        templateUrl: 'views/personvern.html',
+        controller: 'PersonvernCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
