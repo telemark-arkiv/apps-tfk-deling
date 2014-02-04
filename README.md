@@ -4,6 +4,7 @@ Dette er nettstedet som omhandler Telemark fylkeskommunes åpne data, deling og 
 
 Siden kan sees på [http://apps.t-fk.no/api](http://apps.t-fk.no/api)
 
+[![Build Status](https://travis-ci.org/telemark/apps-tfk-deling.png?branch=master)](https://travis-ci.org/telemark/apps-tfk-deling) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 ##Slik setter du opp din egen kopi##
 
