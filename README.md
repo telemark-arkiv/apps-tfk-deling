@@ -1,4 +1,4 @@
-#Telemark fylkeskommune - deling, åpne data og API#
+#Deling, åpne data og API#
 
 Dette er nettstedet som omhandler Telemark fylkeskommunes åpne data, deling og API.
 
@@ -32,7 +32,7 @@ $ grunt serve
 Grunt brukes også til å kjøre testene
 
 ```
-$ grunt test
+$ grunt test_dev
 ```
 
 For å bygge løsningen for distribusjon er kommandoen enkelt og greit
