@@ -1,5 +1,7 @@
 #Deling, åpne data og API#
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/apps-tfk-deling.svg)](https://greenkeeper.io/)
+
 Dette er nettstedet som omhandler Telemark fylkeskommunes åpne data, deling og API.
 
 Siden kan sees på [http://apps.t-fk.no/api](http://apps.t-fk.no/api)
